@@ -4,4 +4,5 @@
 slot是卡槽信息，settlement是不同结局的信息
 
 对应2022.3.58版本，如果后续官方更新可以手动选择目录，在steam库中浏览游戏本地文件，找到\Sultan's Game\Sultan's Game_Data\StreamingAssets\config\rite文件夹
+
 有bug或者希望更新的东西可以留一下评论（虽然不一定有空更新……）
